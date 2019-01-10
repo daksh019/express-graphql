@@ -1,24 +1,8 @@
 {
-  "name": "express-graphql",
+  "name": "express-graphql-custom",
   "version": "0.7.1",
   "description": "Production ready GraphQL HTTP middleware.",
   "license": "BSD-3-Clause",
-  "bugs": {
-    "url": "https://github.com/graphql/express-graphql/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/graphql/express-graphql.git"
-  },
-  "keywords": [
-    "express",
-    "restify",
-    "connect",
-    "http",
-    "graphql",
-    "middleware",
-    "api"
-  ],
   "engines": {
     "node": ">= 6.x"
   },
